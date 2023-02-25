@@ -1,4 +1,4 @@
-### Hi I am Valli  <img src="https://github.com/vallinayakichidambaram/vallinayakichidambaram/blob/main/girl_hi.gif" width="250" height="250"/>
+### Hi I am Valli 
 
 <!--
 **vallinayakichidambaram/vallinayakichidambaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
