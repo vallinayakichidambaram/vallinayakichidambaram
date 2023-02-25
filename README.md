@@ -1,4 +1,4 @@
-### Hi I am Valli file:///home/guha/Documents/upsc/girl_hi.gif
+### Hi I am Valli 
 
 
 <!--
