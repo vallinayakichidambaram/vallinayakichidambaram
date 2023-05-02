@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Relational Databases | JavaScript**
 
-- 📫 How to reach me **acvalli9@gmail.com**
+- 📫 How to reach me **acgvalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
