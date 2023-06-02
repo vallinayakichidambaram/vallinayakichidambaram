@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Relational Databases | JavaScript**
+- 💬 Ask me about **Blockchain | Solidity | JavaScript**
 
 - 📫 How to reach me **acgvalli@gmail.com**
 
