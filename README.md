@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React | Node**
 
-- 💬 Ask me about **Blockchain | Solidity | JavaScript**
+- 💬 Ask me about **Blockchain | Solidity | JavaScript | TypeScript**
 
 - 📫 How to reach me **acgvalli@gmail.com**
 
