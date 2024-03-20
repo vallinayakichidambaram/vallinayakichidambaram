@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valli</h1>
-<h3 align="center">Blockchain | Web Developer</h3>
+<h3 align="center">Software Development Engineer - Blockchain</h3>
 
 <img align = "right" alt = "Coder" width = "400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
