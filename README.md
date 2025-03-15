@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Blockchain | Solidity | JavaScript | TypeScript**
 
-- 📫 How to reach me **acgvalli@gmail.com**
+- 📫 How to reach me **acvalli21@gmail.com || acgvalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
