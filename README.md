@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valli</h1>
-<h3 align="center">Software Development Engineer - Blockchain</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <img align = "right" alt = "Coder" width = "400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallinayakichidambaram&label=Profile%20views&color=0e75b6&style=flat" alt="vallinayakichidambaram" /> </p>
 
-- 🌱 I’m currently learning **Uniswap Protocol | AWS**
+- 🌱 I’m currently learning **AWS | Uniswap Protocol**
 
-- 💬 Ask me about **Blockchain | Solidity | JavaScript | TypeScript**
+- 💬 Ask me about **JavaScript | TypeScript| NodeJS | Solidity**
 
 - 📫 How to reach me **acvalli21@gmail.com || acgvalli@gmail.com**
 
