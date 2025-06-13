@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallinayakichidambaram&label=Profile%20views&color=0e75b6&style=flat" alt="vallinayakichidambaram" /> </p>
 
-- 🌱 I’m currently learning **AWS | Uniswap Protocol**
+- 🌱 I’m currently learning **AWS | Langggraph**
 
 - 💬 Ask me about **JavaScript | TypeScript| NodeJS | Solidity**
 
