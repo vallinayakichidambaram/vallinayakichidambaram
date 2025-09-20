@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallinayakichidambaram&label=Profile%20views&color=0e75b6&style=flat" alt="vallinayakichidambaram" /> </p>
 
-- 🌱 I’m currently learning **AWS | Langgraph**
+- 🌱 I’m currently learning **System Desgin | DSA for interviews**
 
-- 💬 Ask me about **JavaScript | TypeScript| NodeJS | Solidity**
+- 💬 Ask me about **JavaScript | TypeScript| NodeJS | AWS**
 
 - 📫 How to reach me **acvalli21@gmail.com || acgvalli@gmail.com**
 
